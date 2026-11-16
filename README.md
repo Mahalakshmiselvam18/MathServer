@@ -101,7 +101,8 @@ urlpatterns = [
 ]
 ```
 ## OUTPUT - SERVER SIDE:
-![alt text](<WhatsApp Image 2026-11-16 at 2.23.39 PM-1.jpeg>)
+<img width="1600" height="900" alt="WhatsApp Image 2026-11-16 at 2 24 07 PM" src="https://github.com/user-attachments/assets/ddefc118-b785-4248-8dcc-9b15cf3a5e30" />
+
 
 ## OUTPUT - WEBPAGE:
 ![alt text](<WhatsApp Image 2026-11-16 at 2.23.39 PM.jpeg>)
